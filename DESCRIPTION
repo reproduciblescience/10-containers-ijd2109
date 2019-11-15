@@ -1,0 +1,20 @@
+Type: Compendium
+Package: Ian's compendium name
+Title: Package for lab 10
+Version: 0.0.1
+Authors@R: 
+    person(given = "Ian",
+           family = "Douglas",
+           role = c("aut"),
+           email = "ijd2109@columbia.edu",
+           comment = c(ORCID = "N/A"))
+Description: The description of Ian's compendium goes
+    here
+License: What license it uses
+Depends: 
+    rmarkdown,
+    tidyverse,
+    tm,
+    topicmodels
+Encoding: UTF-8
+LazyData: true
